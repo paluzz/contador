@@ -22,7 +22,7 @@ Este proyecto consiste en un contador que cuenta desde cero y permite realizar o
    - Incrementar +1: aumenta el contador en 1 unidad.
    - Incrementar +10: aumenta el contador en 10 unidades.
    - Reset: pone el contador de vuelta a cero.
-   - Random: establece un número aleatorio entre 1 y 100 como valor del contador.
+   - Random: establece un número aleatorio entre 1 y 10 como valor del contador.
    - Decrementar -10: disminuye el contador en 10 unidades.
    - Decrementar -1: disminuye el contador en 1 unidad.
 
