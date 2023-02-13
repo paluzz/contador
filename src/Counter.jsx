@@ -28,7 +28,7 @@ function Counter() {
     setCount(resetNum);
   }
   function min() {
-    const minNum = count > 10 ? count - 10 : count;
+    const minNum = count > 9 ? count - 10 : count;
     setCount(minNum);
   }
 
